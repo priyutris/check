@@ -1,0 +1,81 @@
+<style>
+{
+	box-sizing: border-box;
+}
+.grad
+{
+    margin-left: 5cm;
+	height: 3cm;
+	margin-top: 3%;
+}
+.h1prop
+{
+	text-align: center;
+    font-family: le jour serif;
+    margin-top: 1%;
+	font-size:30px;
+	font-weight:bold;
+	padding-left:50px;
+	padding-right:50px;
+}
+.new
+{
+	text-align: center;
+    font-family: raleway;
+    margin-top: 0%;
+	text-decoration:none;
+}
+.contain
+{
+    height: 4cm;
+	margin-top: 1cm;
+}
+.detail
+{
+	height: 4cm;
+	margin-top: 1cm;
+	
+}
+.span
+{
+	height: 4cm;
+	margin-top: 1cm;
+}
+.top
+{
+	height:4cm;
+	margin-top: 1cm;
+}
+.time{
+	margin-left: 5cm;
+	margin-top: 1cm;
+	margin-bottom: 2cm;
+}
+.topnav
+{
+	overflow: hidden;
+	position: static;
+	
+}
+.topnav a
+{
+	text-decoration: none;
+}
+.topnav :hover
+{
+	background-color: #ddd;
+	color:green;
+}
+
+.footer
+{
+	margin-left: 5cm;
+	margin-bottom: 5cm;
+    text-align: justify;
+}
+.footer :hover{
+	background-color: #ddd;
+	color: purple;
+    text-align: justify;
+}
+</style>

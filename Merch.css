@@ -1,0 +1,49 @@
+<style>
+
+{
+	box-sizing: border-box;
+}
+.top
+{
+	top:5%;
+	position: absolute;
+	overflow: hidden;
+	right:2%;
+    margin-top: 1%;
+}
+.top a 
+{
+	color:black;
+	font-family: raleway;
+	font-weight: bold;
+	font-size:21px;
+	text-decoration: none;
+}
+.prop
+{
+   text-align:center;
+	display:block;
+	width:800px;
+	position: absolute;
+	background-color:none;
+	top: 8%;
+	left:50%;
+	right:50%;
+	transform: translate(-50%,-50%);
+	font-size: 30px;
+	 margin-top: 1%;
+    font-weight: bold;
+	text-decoration: none;
+    font-family: le jour serif;
+	color:black;
+}
+
+.new
+{
+	margin-top: 3cm;
+	display: block;
+	text-align: center;
+	font-size: 21px;
+	font-family:Raleway;
+}
+</style>

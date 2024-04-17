@@ -1,0 +1,139 @@
+<style>
+{
+	box-sizing: border-box;
+}
+.menuicon
+{
+	width:50px;
+	height:50px;
+	display:inline-block;
+	position:absolute;
+	top:5%;
+	left:2%;
+}
+.top
+{
+	top:5%;
+	position: absolute;
+	overflow: hidden;
+	right:2%;
+    margin-top: 1%;
+}
+.top a
+{
+	color:black;
+	font-size:21px;
+	text-decoration: none;
+	font-family: raleway;
+	font-weight: bold ;
+}
+ .prop
+{
+    text-align: center;
+    display: inline-block;
+    width: 800px;
+    position: absolute;
+    background-color: none;
+    top: 8%;
+    left: 50%;
+    right: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 30px;
+    margin-top: 1%;
+    font-weight: bold;
+	padding-left:50px;
+	padding-right:50px;
+    text-decoration: none;  
+    color:black;
+    font-family: le jour serif;
+}
+
+</span><span style="font-family: raleway;">body {
+  background-color: none;
+  font-family: josefin sans;
+}
+.login-box {
+  width: 360px;
+  height: 280px;
+  margin: auto;
+  border-radius: 3px;
+  background-color: white;
+  margin-top: 8%;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 15px;
+  font-family: raleway;
+  font-size: 21px;
+  margin-top: 2cm;
+}
+
+form {
+  width: 300px;
+  margin-left: 20px;
+}
+
+form label {
+  display: flex;
+  margin-top: 20px;
+  font-size: 18px;
+  font-family: josefin sans;
+  
+}
+
+form input {
+  width: 100%;
+  padding: 7px;
+  border: none;
+  border: 1px solid gray;
+  border-radius: 6px;
+  outline: none;
+}
+input[type="button"] {
+  width: 100px;
+  margin-top: 20px;
+  text-align: center;
+  border: none;
+  background-color: black;
+  color: white;
+  font-family: josefin sans;
+  font-size: 18px;
+  margin-left:110px;
+	display: inline-block;
+	border-radius: 10px;
+	padding: 1rem
+  
+}
+p {
+  text-align: center;
+  padding-top: 20px;
+  font-size: 15px;
+}
+.para-2 {
+  text-align: center;
+  font-size: 15px;
+  margin-top: -10px;
+}
+.para-2 a {
+  text-decoration: none;
+}
+.pass
+{
+	margin-top: 15px;
+}
+.pass a 
+{
+	text-decoration: none;
+	color:black;
+	font-family: josefin sans;
+}
+@media (min-width:992px){
+}
+
+@media (max-width:1920px){
+}
+
+@media (height:1020px){
+}
+</style>

@@ -1,0 +1,119 @@
+<style>
+
+{
+	box-sizing: border-box;
+} 
+
+.buttonc{
+	margin-left: 50%;
+	margin-right: 50%;
+	display: block;
+	width: 100px;
+	height: 50px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.top
+{
+	top:5%;
+	position: absolute;
+	overflow: hidden;
+	right:2%;
+	margin-top: 0%;
+}
+.top a
+{
+	color:black;
+	font-family: raleway;
+	font-weight: bold;
+	font-size:21px;
+	text-decoration: none;
+}
+	
+
+.h1prop
+{
+	text-align:center;
+	display:block;
+	width:800px;
+	background-color:none;
+	position:absolute;
+	top:6%;
+	left:50%;
+	right:50%;
+	padding-left:50px;
+	padding-right:50px;
+	transform: translate(-50%,-50%);
+	font-family:  Le Jour Serif;
+	margin-top: 1%;
+	
+}
+.menuicon{
+	width:50px;
+	height:50px;
+	display:inline-block;
+	position:absolute;
+	top:5%;
+	left:2%;
+}
+
+.container
+{
+	display: block;
+        object-fit: cover;
+        border-radius: 1px;
+    	pointer-events: auto;
+    	width: 100%;
+	width: 200px;
+	height: 230px;
+	margin-left: 5cm;
+	margin-top:3cm;
+} 
+
+.fonttimes_roman{
+	font-family: glacial indifference;
+	text-align: justify;
+	margin-left: 5cm;
+	margin-right: 10cm;
+	color:black;	
+}
+.content
+{
+	margin-left: 5cm;
+	margin-top: 1cm;
+	font-family: josefin sans;
+}
+.contain
+{
+	margin-left: 5cm;
+	margin-top: 1cm;
+	font-family: josefin sans;
+}
+
+.gradient-background {
+    background: linear-gradient(to right, #ff4e50, #f9d423);
+}
+.new
+{
+    text-align: center;
+    font-family: raleway;
+    display: inline-block;
+    background: black;
+    text-transform: uppercase;
+    font-weight: 600;
+    border-radius: 10px;
+    font-size: 25px;
+    color: #fff;
+    padding: 1rem 2rem;
+    margin-left: 15cm;  
+    
+}
+@media (max-height:1080px){
+	.container, .contain ,.fonttimes_roman		
+	}
+@media (max-width:1920px){
+}
+@media (min-width:480px){
+}
+</style>

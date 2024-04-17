@@ -1,0 +1,73 @@
+<style>
+
+{
+	box-sizing: border-box;
+}
+
+.menuicon
+{
+	width:50px;
+	height:50px;
+	display:inline-block;
+	position:absolute;
+	top:5%;
+	left:2%;
+}
+.new
+{
+	margin-top: 3cm;
+	display: block;
+	text-align: center;
+	font-size: 21px;
+	font-family: Raleway;
+}
+
+ .prop
+{
+	text-align:center;
+	display:block;
+	width:800px;
+	position: absolute;
+	background-color:none;
+	top:8%;
+	left:50%;
+	right:50%;
+	transform: translate(-50%,-50%);
+	font-size:30px;
+	margin-top:1%;
+	font-weight:bold;
+	padding-left:50px;
+	padding-right:50px;
+    text-decoration: none;
+    font-family: le jour serif;
+	color:black;
+}
+
+.container
+{
+    margin-top: 2cm;
+    
+    display: inline-block;
+   
+}
+.container a 
+{
+	text-decoration: none;
+	color: black;
+    margin-left: 1ch;
+    text-align: justify;
+    font-size: 21px;
+    font-weight: bold;
+	font-family: josefin sans;
+	
+	
+}
+@media (max-width:1920px){
+}
+
+@media (max-height:1080px){
+}
+
+@media (min-width:992px){
+}
+</style>
