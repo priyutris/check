@@ -2,7 +2,6 @@
 {
 	box-sizing: border-box;
 }
-
 .menuicon
 {
 	width:50px;
@@ -48,7 +47,6 @@
 	color:black;
 	font-family: le jour serif;	
 }
-
 .new
 {
 
@@ -58,7 +56,6 @@
 	font-size: 21px;
 	font-family:Raleway;
 }
-
 @media (max-width:1920px){
 }
 @media (max-height:1080px){
