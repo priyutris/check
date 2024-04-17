@@ -19,8 +19,7 @@
 	font-size:21px;
 	text-decoration: none;
 }
-
- .prop
+.prop
 {
 	text-align:center;
 	display:block;
@@ -40,7 +39,6 @@
         font-family: le jour serif;
 	color:black;
 }
-
 .new
 {
 	margin-top: 3cm;
@@ -59,17 +57,14 @@
         color: black;
 	font-family: glacial indifference;
 }
-
 .time a,.roman a
 {
 	text-decoration: none;
 	color: black;
         font-family:glacial indifference;
-		
 }
 @media (max-width:1920px){
 }
-
 @media (max-height:1080px){
 }
 @media (min-width:992px){
