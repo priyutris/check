@@ -68,20 +68,16 @@ h1 {
   font-size: 21px;
   margin-top: 2cm;
 }
-
 form {
   width: 300px;
   margin-left: 20px;
 }
-
 form label {
   display: flex;
   margin-top: 20px;
   font-size: 18px;
   font-family: josefin sans;
-  
 }
-
 form input {
   width: 100%;
   padding: 7px;
@@ -102,8 +98,7 @@ input[type="button"] {
   margin-left:110px;
 	display: inline-block;
 	border-radius: 10px;
-	padding: 1rem
-  
+	padding: 1rem;
 }
 p {
   text-align: center;
@@ -130,10 +125,8 @@ p {
 }
 @media (min-width:992px){
 }
-
 @media (max-width:1920px){
 }
-
 @media (height:1020px){
 }
 </style>
