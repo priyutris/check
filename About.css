@@ -45,7 +45,6 @@
 	text-align: center;	
 	font-size: 21px;
 	font-family: raleway;
-	
 }
 .menuicon
 {
@@ -56,7 +55,6 @@
 	top:5%;
 	left:2%;
 }
-
 .span 
 {
 	 margin-left: 3cm;
@@ -72,13 +70,10 @@
     margin-bottom: 5cm;
     text-decoration: none;
 }
-
 @media (max-width:1920px){
 }
-
 @media (max-height:1080px){
 }
-
 @media (min-width:992px){
 }
 </style>
