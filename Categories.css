@@ -1,9 +1,7 @@
 <style>
-
 {
 	box-sizing: border-box;
 }
-
 .top
 {
 	top:5%;
@@ -40,7 +38,6 @@
 	color:black;
     font-family: le jour serif;
 }
-
 .new
 {
 	margin-top: 3cm;
@@ -58,13 +55,10 @@
 	top:5%;
 	left:2%;
 }
-	
 @media (max-width:1920px){
 }
-
 @media (max-height:1080px){
 }
-
 @media (min-width:992px){
 }
 </style>
